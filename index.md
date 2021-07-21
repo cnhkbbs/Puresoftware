@@ -4,13 +4,15 @@
 
 ## 纯净软件推荐（点击文字即可下载）
 
-浏览器：[Google浏览器](https://www.google.cn/intl/zh-CN/chrome/) [Edge浏览器](https://www.microsoft.com/zh-cn/edge）[火狐浏览器](http://www.firefox.com.cn/)
+浏览器：1[Google浏览器](https://www.google.cn/intl/zh-CN/chrome/) 2[Edge浏览器](https://www.microsoft.com/zh-cn/edge）3[火狐浏览器](http://www.firefox.com.cn/)
 
-生活工具：[Pure天气](http://www.aichunjing.com/soft/2019-04-24/727.html) [必应壁纸](https://www.microsoft.com/zh-cn/bing/bing-wallpaper) [SumatraPDF PDF阅读软件](http://www.aichunjing.com/soft/1292.html)[录屏神器 Bandicam](http://www.aichunjing.com/soft/2019-01-24/643.html) 
+生活工具：1[Pure天气](http://www.aichunjing.com/soft/2019-04-24/727.html) 2[必应壁纸](https://www.microsoft.com/zh-cn/bing/bing-wallpaper) 3[SumatraPDF PDF阅读软件](http://www.aichunjing.com/soft/1292.html)4[录屏神器 Bandicam](http://www.aichunjing.com/soft/2019-01-24/643.html) 
 
-输入法：WIn10自带输入法（win10自带0）[搜狗拼音输入法优化去广告版](http://www.aichunjing.com/soft/2018-07-05/228.html) [讯飞输入法](http://www.aichunjing.com/soft/1076.html)
+输入法：WIn10自带输入法（win10自带0）2[搜狗拼音输入法优化去广告版](http://www.aichunjing.com/soft/2018-07-05/228.html) 3[讯飞输入法](http://www.aichunjing.com/soft/1076.html)
 
-杀毒软件：[腾讯电脑管家](https://guanjia.qq.com/) [火绒](https://www.huorong.cn/person5.html) Windows Defender（系统自带）
+杀毒软件：1[腾讯电脑管家](https://guanjia.qq.com/)2 [火绒](https://www.huorong.cn/person5.html)3 Windows Defender（系统自带）
+
+一台电脑装一个杀毒软件就够了，多装会出现杀毒软件互相残杀现象！！！
 
 ## 软件下载网站推荐
 
