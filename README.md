@@ -1,2 +1,2 @@
 # Puresoftware
-## Some advice for everyone
+## Some softwares
